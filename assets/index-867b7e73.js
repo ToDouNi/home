@@ -1,1 +1,0 @@
-import{$ as s,o as e,c as t,d as a,O as n}from"./index-0be9983c.js";const o={},r={class:"loader"};function d(c,_){return e(),t("div",r)}const p=s(o,[["render",d],["__scopeId","data-v-eda21cca"]]),f=a({__name:"index",setup(c){return(_,i)=>(e(),n(p))}});export{f as default};

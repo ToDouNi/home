@@ -1,1 +1,0 @@
-System.register(["./index-legacy-7bacaf7f.js"],(function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e.$,r=e.o,u=e.c}],execute:function(){e("default",n({},[["render",function(e,t){return r(),u("div",null,"这是页面1")}]]))}}}));

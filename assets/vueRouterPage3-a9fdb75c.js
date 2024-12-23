@@ -1,0 +1,1 @@
+import{$ as n,o,c as a,T as r,P as s,U as l}from"./index-d008e0e7.js";const u={};function c(t,e){return o(),a(l,null,[e[0]||(e[0]=r("div",null,"这是页面3",-1)),r("div",null,"这是接收过来的参数"+s(t.$route.query.id),1)],64)}const d=n(u,[["render",c]]);export{d as default};

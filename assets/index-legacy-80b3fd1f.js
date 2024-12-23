@@ -1,1 +1,0 @@
-System.register(["./index-legacy-7bacaf7f.js"],(function(e,t){"use strict";var n,r,s,c;return{setters:[e=>{n=e.$,r=e.o,s=e.c,c=e.T}],execute:function(){const t={class:"bg-green-500"};e("default",n({},[["render",function(e,n){return r(),s("div",t,n[0]||(n[0]=[c("div",{class:"font-bold"},"level1",-1)]))}]]))}}}));
