@@ -1,0 +1,1 @@
+import{$ as s,o,c as t,T as n}from"./index-0be9983c.js";const c={},r={class:"bg-green-500"};function a(d,e){return o(),t("div",r,e[0]||(e[0]=[n("div",{class:"font-bold"},"level1",-1)]))}const _=s(c,[["render",a]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{d as a,g as l,o as e,c as t,U as c,W as u,Q as i,P as p}from"./index-0be9983c.js";const _={id:"ul",class:"h-[500px] w-[100px] overflow-auto"},d=1e3,x=a({__name:"index",setup(f){const s=Array.from({length:d},(r,n)=>n);return l(()=>{}),(r,n)=>(e(),t("ul",_,[(e(!0),t(c,null,u(i(s),o=>(e(),t("li",{key:o},p(o),1))),128))]))}});export{x as default};

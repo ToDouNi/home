@@ -1,0 +1,1 @@
+System.register(["./index-legacy-7bacaf7f.js"],(function(e,t){"use strict";var n,r,u,i,l,c;return{setters:[e=>{n=e.$,r=e.o,u=e.c,i=e.T,l=e.P,c=e.U}],execute:function(){e("default",n({},[["render",function(e,t){return r(),u(c,null,[t[0]||(t[0]=i("div",null,"这是页面3",-1)),i("div",null,"这是接收过来的参数"+l(e.$route.query.id),1)],64)}]]))}}}));

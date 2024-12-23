@@ -1,0 +1,1 @@
+System.register([],(function(e,n){"use strict";return{execute:function(){const n=e("i","undefined"!=typeof document&&"undefined"!=typeof window),i=n&&"chrome"in window;n&&navigator.userAgent.includes("Firefox"),e("a",n&&navigator.userAgent.includes("Safari")&&!i)}}}));
